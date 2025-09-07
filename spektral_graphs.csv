@@ -1,0 +1,7 @@
+Metric,Mean,Median,Mimumum,Maximum
+LCOM,0.921569,0,0,20
+TCC,0.816608,1,0.167,1
+CBO,22.44118,21.5,1,70
+Fan-Out,0,0,0,0
+Changes,10.75490196,8,0,33
+NLC,18.19431373,13.945,0,92
